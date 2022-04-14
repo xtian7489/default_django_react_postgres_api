@@ -1,0 +1,16 @@
+# Custom
+*.pyc
+_ pycache _/
+venv/
+media/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Nginx
+data/
+letsencrypt/
